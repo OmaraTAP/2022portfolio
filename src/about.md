@@ -1,3 +1,9 @@
+---
+title: About
+layout: base.njk
+tags: navItem
+---
+ 
  <h3>Pleasure to meet you!</h3>
       
       <main class="about-page">

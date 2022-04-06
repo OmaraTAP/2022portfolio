@@ -1,3 +1,9 @@
+---
+title: Contact
+layout: base.njk
+tags: navItem
+---
+ 
  <h3>Connect With Me</h3>
 
 <section class="contact-box">
