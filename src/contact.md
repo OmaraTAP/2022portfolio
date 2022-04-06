@@ -4,7 +4,8 @@ layout: base.njk
 tags: navItem
 ---
 # {{title}}
- <h3>Connect With Me</h3>
+
+<h3>Connect With Me</h3>
 
 <section class="contact-box">
     <h4>Ways to Reach Me</h4>
