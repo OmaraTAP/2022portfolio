@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Hello! I'm Omara. Enjoy your visit!
 layout: base.njk
 tags: navItem
 ---
