@@ -7,6 +7,7 @@ tags: navItem
 
 <h3>Connect With Me</h3>
 
+<main class="page-contact">
 <section class="contact-box">
     <h4>Ways to Reach Me</h4>
 
@@ -23,3 +24,4 @@ tags: navItem
     </table>
 </div>
 </section>
+</main>
