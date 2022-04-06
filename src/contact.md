@@ -1,9 +1,9 @@
 ---
-title: Contact
+title: Connect With Me
 layout: base.njk
 tags: navItem
 ---
- 
+# {{title}}
  <h3>Connect With Me</h3>
 
 <section class="contact-box">

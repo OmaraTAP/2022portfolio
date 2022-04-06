@@ -1,9 +1,9 @@
 ---
-title: About
+title: Pleasure to meet you!
 layout: base.njk
 tags: navItem
 ---
- 
+# {{title}}
  <h3>Pleasure to meet you!</h3>
       
       <main class="about-page">
