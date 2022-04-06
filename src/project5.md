@@ -18,6 +18,6 @@ tags: navItem
   <p>The end results were a simple, detailed, colorful, and labeled modern map of Tenochtitlan.</p>
 
   <img src="images/project5/modernmap.jpg" class="modernmap" alt="modernmap">
-  </section>
+</section>
 
-  </main>
+</main>
